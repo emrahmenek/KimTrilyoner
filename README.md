@@ -7,5 +7,3 @@ Bilgi Yarisması
 Html5 Css ve JavaScript
 
 # Ekran Gifi
-
-! [](/images/ekran.gif)
